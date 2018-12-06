@@ -1,2 +1,3 @@
-Solução de exercícios das listas do curso: Python para Zumbis
-Professor: Fernando Masanori , Fatec Jassen Vidal.
+SoluÃ§Ã£o de exercÃ­cios das listas do curso: Python para Zumbis
+encontrados no link: https://github.com/fmasanori/PPZ
+Professor: Fernando Masanori , Fatec Jessen Vidal.
